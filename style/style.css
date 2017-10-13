@@ -11,7 +11,7 @@ svg {
     height: 150px
 }
 
-td:first-of-type {
-    height: : 250px;
-    width: 250px;
+td:first-of-type, td:first-of-type > div {
+    height: 150px;
+    width: 220px;
 }
